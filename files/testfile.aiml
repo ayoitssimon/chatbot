@@ -1,0 +1,35 @@
+<aiml version="1.0">
+  <category>
+    <pattern>Hello</pattern>
+    <template>Hi there!</template>
+  </category>
+
+  <category>
+    <pattern>How are you</pattern>
+    <template>I'm just a bot, but thanks for asking!</template>
+  </category>
+
+  <category>
+    <pattern>What is your name</pattern>
+    <template>My name is ChatBot.</template>
+  </category>
+
+  <category>
+    <pattern>Goodbye</pattern>
+    <template>Goodbye! Have a great day.</template>
+  </category>
+
+  <!-- Add more conversation-style responses -->
+  <category>
+    <pattern>Tell me a joke</pattern>
+    <template>Why don't scientists trust atoms? Because they make up everything!</template>
+  </category>
+
+  <category>
+    <pattern>What's the weather like today</pattern>
+    <template>Sorry, I don't have real-time information. You can check a weather website for the latest updates!</template>
+  </category>
+
+  <!-- Add more patterns and responses as needed -->
+
+</aiml>
